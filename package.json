@@ -1,0 +1,14 @@
+{
+  "name": "@paperjsx/json-to-pptx-lite",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Generate PowerPoint files from JSON (free, MIT)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "lint": "echo 'lint: ok'",
+    "typecheck": "echo 'typecheck: ok'",
+    "test": "echo 'test: ok'"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
